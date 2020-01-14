@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fcb89f4a0418f6dc28b9bff32da37192
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ouders
+  fontNames:
+  - Ouders
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f50c86a01f960baea853cc393b4cfd8e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
